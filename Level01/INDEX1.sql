@@ -1,0 +1,16 @@
+CREATE DATABASE IF NOT EXISTS college;
+USE college;
+
+CREATE TABLE IF NOT EXISTS class(
+id INT PRIMARY KEY,
+className VARCHAR(20),
+totalStudents INT
+);
+
+CREATE TABLE IF NOT EXISTS student(
+rollNo INT PRIMARY KEY,
+studentName VARCHAR(50)
+);
+
+DROP TABLE IF EXISTS class;
+DROP DATABASE IF EXISTS college;
