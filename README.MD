@@ -57,3 +57,6 @@
 ## LEVEL 04
 
 [1. SQL Tutorial](https://www.programiz.com/sql/getting-started)
+[2. SQL Interview Questions - DataLemur](https://datalemur.com/questions)
+[3. SQL Interview Questions - LeetCode](https://leetcode.com/studyplan/top-sql-50/)
+[4. SQL Interview Questions - Naukri](https://www.naukri.com/code360/problem-lists/top-100-sql-problems)
